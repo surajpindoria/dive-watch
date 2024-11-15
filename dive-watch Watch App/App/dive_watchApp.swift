@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import os
 
 @main
 struct dive_watch_Watch_AppApp: App {
@@ -14,4 +15,6 @@ struct dive_watch_Watch_AppApp: App {
             ContentView()
         }
     }
-}
+    let logger = Logger();
+    
+};

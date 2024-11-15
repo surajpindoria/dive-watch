@@ -456,7 +456,10 @@
 				DEVELOPMENT_TEAM = Q26Y9A4L38;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "dive-watch-Watch-App-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "dive-watch";
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSMotionUsageDescription = "Dive Watch needs access to the Water Submersion data";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKWatchOnly = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -486,7 +489,10 @@
 				DEVELOPMENT_TEAM = Q26Y9A4L38;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "dive-watch-Watch-App-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "dive-watch";
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSMotionUsageDescription = "Dive Watch needs access to the Water Submersion data";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKWatchOnly = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
